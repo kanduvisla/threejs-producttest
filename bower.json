@@ -1,0 +1,19 @@
+{
+  "name": "threejs-producttest",
+  "version": "0.0.0",
+  "authors": [
+    "Giel Berkers <info@gielberkers.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "threejs": "*"
+  }
+}
